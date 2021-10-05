@@ -1,8 +1,12 @@
 # Daffodil International University
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](diuwebsitebyfazlerabbi.netlify.app).
 
-## Available Scripts
+## Its a university website
+
+>> You will get information about DIU.
+>> You can see DIU faculty member.
+>> You can information about graduation programs.
 
 In the project directory, you can run:
 
