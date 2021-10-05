@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](diuwebsitebyfazlerabbi.net
 
 ## Its a university website
 
->> You will get information about DIU.
->> You can see DIU faculty member.
->> You can information about graduation programs.
+# `=>` You will get information about DIU.
+# `=>` You can see DIU faculty member.
+# `=>` You can information about graduation programs.
 
 In the project directory, you can run:
 
