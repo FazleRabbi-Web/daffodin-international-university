@@ -1,0 +1,65 @@
+[
+    {
+       "id":1,
+       "img":"https://www.amrita.edu/sites/default/files/styles/news_banner_imagesbreakpoints_theme_norma_tablet_1x/public/why-cse-isnt-the-only-option-engineers.jpg?itok=0x5YUIH7&timestamp=1621076199",
+       "program":"Computer Science",
+       "semester":65100,
+       "cost":754611
+    },
+    {
+       "id":2,
+       "img":"https://www.bfitdoon.com/wp-content/uploads/2020/02/BBA-1170x607.jpeg",
+       "program":"Business Administration (BBA)",
+       "semester":55215,
+       "cost":760000
+    },
+    {
+       "id":3,
+       "img":"http://resources.finalsite.net/images/v1566392570/cis/fxw2ad7irs6m5kxno2hb/CIS-logo.jpg",
+       "program":"Computing & Information System (CIS)",
+       "semester":55215,
+       "cost":754611
+    },
+    {
+       "id":4,
+       "img":"https://content.techgig.com/thumb/msid-74548080,width-860,resizemode-4/4-essential-skills-every-NET-developer-must-possess.jpg?67629",
+       "program":"software engineer",
+       "semester":60000,
+       "cost":800000
+    },
+    {
+       "id":5,
+       "img":"https://www.textileblog.com/wp-content/uploads/2020/05/study-in-Textile-Engineering.jpg",
+       "program":"Textile Engineering (TE)",
+       "semester":55215,
+       "cost":754611
+    },
+    {
+       "id":6,
+       "img":"https://exambazaar-2020.s3.amazonaws.com/50aed7693e52d0214a9aacde86fd37ab.jpg",
+       "program":"Architecture (B. Arch)",
+       "semester":65478,
+       "cost":874561
+    },
+    {
+       "id":7,
+       "img":"https://ugv.edu.bd/images/course_images/1580033615.jpg",
+       "program":"Civil Engineering (CE)",
+       "semester":54623,
+       "cost":874563
+    },
+    {
+       "id":8,
+       "img":"https://www.sarvgyan.com/hc/wp-content/uploads/2016/12/Bachelor-Of-Laws-LLB.jpg",
+       "program":"Bachelor of Law",
+       "semester":12345,
+       "cost":745612
+    },
+    {
+       "id":9,
+       "img":"https://www.keele.ac.uk/pharmacy-bioengineering/study/undergraduate/pharmacy-22-960x640.jpg",
+       "program":"Pharmacy (Hons)",
+       "semester":65478,
+       "cost":987456
+    }
+ ]

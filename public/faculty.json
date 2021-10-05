@@ -1,0 +1,56 @@
+[
+    {
+       "id":1,
+       "img":"https://faculty.daffodilvarsity.edu.bd/images/teacher/afaa9d85b3fc0092e692e325b4e90b63.jpg",
+       "name":"Prof. Dr. S.M. Mahbub Ul Haque",
+       "title":"Dean"
+    },
+    {
+       "id":2,
+       "img":"https://faculty.daffodilvarsity.edu.bd/images/teacher/b520b602c379adcac0e08070ed19cae3.png",
+       "name":"Professor Dr. Md. Fokhray Hossain",
+       "title":"Associate Dean & Professor"
+    },
+    {
+       "id":3,
+       "img":"https://faculty.daffodilvarsity.edu.bd/images/teacher/8e89c862b7e4ab4f1ad6d34f1118de38.png",
+       "name":"Dr. Bibhuti Roy",
+       "title":"Visiting Professor"
+    },
+    {
+       "id":4,
+       "img":"https://faculty.daffodilvarsity.edu.bd/images/teacher/d5d06cf0a79a30f4a8a0eebfe152f1ef.jpg",
+       "name":"Dr. Sheak Rashed Haider Noori",
+       "title":"Associate Professor and Associate Head"
+    },
+    {
+       "id":5,
+       "img":"https://faculty.daffodilvarsity.edu.bd/images/teacher/8bf8859ce4894911c1b0739b549949d6.JPG",
+       "name":"Ms. Subhenur Latif",
+       "title":"Assistant Professor"
+    },
+    {
+       "id":6,
+       "img":"https://faculty.daffodilvarsity.edu.bd/images/teacher/8e89c862b7e4ab4f1ad6d34f1118de38.png",
+       "name":"Dr. Bibhuti Roy",
+       "title":"Visiting Professor"
+    },
+    {
+       "id":7,
+       "img":"https://faculty.daffodilvarsity.edu.bd/images/teacher/14ad363ef4b867aff377c274b1e1834c.JPG",
+       "name":"DMr. Shah Md Tanvir Siddiquee",
+       "title":"Visiting Professor"
+    },
+    {
+       "id":8,
+       "img":"https://faculty.daffodilvarsity.edu.bd/images/teacher/6724caa5f8c95c76793290e15f76a3c3.jpg",
+       "name":"Moushumi Zaman Bonny",
+       "title":"Assistant Professor"
+    },
+    {
+       "id":9,
+       "img":"https://faculty.daffodilvarsity.edu.bd/images/teacher/42e0ad19e28acc9480d7d047c8f3e700.JPG",
+       "name":"Mr. Aniruddha Rakshit",
+       "title":"Lecturer"
+    }
+ ]
